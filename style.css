@@ -8,7 +8,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 50px;
-    background: linear-gradient(180.43deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.8) 100%), url(A\ lost\ pokeball.jpg);
+    background: linear-gradient(180.43deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.8) 100%), url(poke.jpg);
     background-size: cover !important;
     background-position: 50% !important;
     height: 820px;
