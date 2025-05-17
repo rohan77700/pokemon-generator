@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+html {
+    font-family: "Tiny5", sans-serif;
+}
+
 body {
     max-width: 800px;
     margin: 0 auto;
@@ -65,7 +69,7 @@ button:hover {
 }
 
 .image {
-    width: 600px;
-    height: 600px;
+    width: 1000px;
+    height: 1000px;
     object-fit: cover;
 }
